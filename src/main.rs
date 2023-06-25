@@ -10,9 +10,8 @@ impl Config {
             return Err("Not enough arguments!")
         }
 
-
-        let query: String = args[0].clone();
-        let file_name: String = args[1].clone();
+        let query: String = args[1].clone();
+        let file_name: String = args[2].clone();
     
         Ok(Config { query, file_name })
     }
