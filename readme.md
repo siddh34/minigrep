@@ -8,4 +8,4 @@
 * Syntax is cargo run word file
 * This syntax is splitted into query & filename
 
-![1687704802575](image/readme/1687704802575.png)
+![1687792347846](image/readme/1687792347846.png)
